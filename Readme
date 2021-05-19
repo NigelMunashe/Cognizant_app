@@ -1,0 +1,1 @@
+For this solution, I assumed that the User is the admin, hence why the user is granted all priviledges and they do not need to login. The user has to click the login button and the Months list view will be displayed.
